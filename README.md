@@ -12,7 +12,7 @@ The **Mobile Sales and Orders Dashboard** presents comprehensive analytics on mo
 The dashboard was built using **Power BI** (or specify the BI tool used), leveraging dynamic visuals and interactive features to provide an intuitive, data-driven experience.
 
 ## Dashboard Preview
-![Dashboard Example](https://github.com/Usama00004/DAX/Images/Image1.png)
+![Dashboard Example](https://github.com/Usama00004/DAX/blob/main/Images/Image1.png)
 
 ## Data Sources
 
