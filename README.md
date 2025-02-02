@@ -61,4 +61,4 @@ Potential improvements to enhance the dashboard experience:
 2. **Interactive Visuals**: If you want to provide interactive visuals, consider linking to a Power BI Service report or embedding the dashboard via Power BI embedded features.
 
 ## Contact
-For questions or feedback, please contact [Your Name](mailto:your.email@example.com).
+For questions or feedback, please contact [Usama Tahir](mailto:usamatahir00004@gmail.com).
